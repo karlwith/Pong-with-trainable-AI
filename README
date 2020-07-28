@@ -1,0 +1,3 @@
+To train - run with regression prediction, training data manipulation and topredict/should move disabled.
+After a few minutes of playing like this, stop the script and disable the csv creation line
+Then enable regression prediction, training data manipulation and topredict/shouldMove.
